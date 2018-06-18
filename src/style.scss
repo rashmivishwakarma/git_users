@@ -1,0 +1,24 @@
+.user-info {
+    height: 100px;
+    width: 500px;
+    border: 1px solid;
+    margin: 5px auto;
+    display: flex;
+    align-items: flex-start;
+}
+
+.header-data{
+    background-color: #147ABC;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.user-avatar{
+    width: 50px;
+    border-radius: 50%;
+}
+
+.user-data{
+    margin-left: 10px;
+}
